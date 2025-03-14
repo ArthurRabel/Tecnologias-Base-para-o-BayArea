@@ -30,7 +30,7 @@ Os links e conteúdos a seguir vão do básico ao avançado. Foque em aprender b
 
 ---
 
-## 🐘 PostgreSQL  
+## 🐘 PostgreSQL (BackEnd)
 
 :bulb: [Acessar o mapa de estudos](https://roadmap.sh/postgresql-dba)  
 
@@ -41,7 +41,7 @@ Os links e conteúdos a seguir vão do básico ao avançado. Foque em aprender b
 
 ---
 
-## ⚡ Next.js  
+## ⚡ Next.js  (FrontEnd)
 
 :bulb: Nextjs não tem um mapa de estudo oficial, segue a baixo tecnologias relacionada a ele:
 - [Mapa de estudo Nodejs](https://roadmap.sh/nodejs)
