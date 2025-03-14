@@ -1,6 +1,6 @@
 # 📌 Guia de Estudos - Tecnologias Base para o BayArea  
 
-Os links e conteudos a seguir vai do basico ao avançado, não é necessario dominar coisas avançadas logo de inicio, incie aprendendo bem o basico e ao longo do projeto se aprofunde.
+Os links e conteúdos a seguir vão do básico ao avançado. Foque em aprender bem apenas o necessário no básico e aprofunde-se conforme o projeto evolui.
 
 ## 🛠️ Git e GitHub  
 
