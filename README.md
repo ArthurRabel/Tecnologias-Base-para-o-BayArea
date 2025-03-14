@@ -44,7 +44,7 @@ Os links e conteudos a seguir vai do basico ao avançado, não é necessario dom
 ## ⚡ Next.js  
 
 :bulb: Nextjs não tem um mapa de estudo oficial, segue a baixo tecnologias relacionada a ele:
-- [Mapa de estudo Nodejs](http://Node.js)
+- [Mapa de estudo Nodejs](https://roadmap.sh/nodejs)
 - [Mapa de estudo React](https://roadmap.sh/react)
   
 :bulb: [Documentação oficial do Next.js (Inglês)](https://nextjs.org/docs/app/getting-started)  
